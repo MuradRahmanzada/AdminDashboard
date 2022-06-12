@@ -4,9 +4,26 @@ __You can visit the website clicking [here!](https://react-admin-dashboard01.net
 
 ## Featues
   Pages
+  
   * Orders
   * Employees
   * Customers
+  
+  Apps
+  
+  * Calendar
+  * Kanban
+  * Editor
+  * Color-Picker
+
+  Charts
+  
+  * Line
+  * Area
+  * Bar
+  * Pie
+  * Financial
+  
 
 
 
