@@ -2,7 +2,7 @@
 H! This a Admin-Dashboard front end clone that i´ve built using ReactJS.  
 
 ## Features
-- Pages
+## Pages
 * Orders
 * Employees
 * Customers
